@@ -1,0 +1,22 @@
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.exe.config
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.exe
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.pdb
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Form1.resources
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Properties.Resources.resources
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.exe
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.pdb
+C:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Form2.resources
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.exe.config
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.exe
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\bin\Debug\Zadanie_6.pdb
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csprojAssemblyReference.cache
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Form1.resources
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Form2.resources
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.Properties.Resources.resources
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csproj.GenerateResource.cache
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.csproj.CoreCompileInputs.cache
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.exe
+c:\Users\alex\Desktop\Studia\Semestr 5\Podstawy organizacji systemów komputerowych\Zadania\POSK - Z06\Zadanie_6\Zadanie_6\obj\Debug\Zadanie_6.pdb
